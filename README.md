@@ -1,4 +1,4 @@
-## Hello, I'm Bayu Ardiansyah 👋
+# Hello, I'm Bayu Ardiansyah 👋
 ![Bayu](img/banner.png)
 
 <!--
