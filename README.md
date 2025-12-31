@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Profile
-### 💫 Halo semuanya, perkenalkan nama saya bayu, saat ini saya adalah siswa smkn 6 jember, saya suka desain dan coding, terutama di front end 
-### -🔭 I’m a student of SMKN 6 Jember
-### -🌱 I’m currently learning html,css laravel and boostrap
+#### 💫 Halo semuanya, perkenalkan nama saya bayu, saat ini saya adalah siswa smkn 6 jember, saya suka desain dan coding, terutama di front end 
+#### -🔭 I’m a student of SMKN 6 Jember
+#### -🌱 I’m currently learning html,css laravel and boostrap
 
 ##### - 🙌🙌🙌
 
