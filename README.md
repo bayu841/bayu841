@@ -7,8 +7,6 @@
 
 ## Profile
 
-💫 Saya adalah siswa **SMKN 6 Jember** yang memiliki minat besar di bidang **desain dan pengembangan web**, khususnya **Front-End Development**. Terbiasa menggunakan **HTML, CSS, Bootstrap**, serta tools desain seperti **Figma dan Canva** untuk membuat tampilan website yang menarik, responsif, dan mudah digunakan. Saya terus belajar dan mengembangkan kemampuan coding serta desain untuk menghasilkan karya yang kreatif dan fungsional.
-
 - 🔭 I’m a student of **SMKN 6 Jember**
 - 🌱 I’m currently learning **HTML, CSS, Laravel, and Bootstrap**
 - 🙌🙌🙌
